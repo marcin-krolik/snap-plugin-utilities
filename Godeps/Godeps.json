@@ -2,25 +2,24 @@
 	"ImportPath": "github.com/intelsdi-x/snap-plugin-utilities",
 	"GoVersion": "go1.5",
 	"Deps": [
-                {
-                        "ImportPath": "github.com/intelsdi-x/snap",
-                        "Comment": "v0.10.0-beta-8-g4d5a73e",
-			            "Rev": "4d5a73e74913bd33d8f26044b7203cd4db35ad91"
-                },
-                {
-                        "ImportPath": "github.com/oleiade/reflections",
-                        "Comment": "0.1.2-2-g632977f",
-                        "Rev": "632977f98cd34d217c4b57d0840ec188b3d3dcaf"
-                },
-                {
-                        "ImportPath": "github.com/vektra/errors",
-                        "Rev": "c64d83aba85aa4392895aadeefabbd24e89f3580"
-                },
-		        {
-                        "ImportPath": "github.com/Sirupsen/logrus",
-                        "Comment": "v0.8.7-47-ga22723f",
-                        "Rev": "a22723f16efea2e89b7bd67d10ed077c47c14eb4"
-                }
-
+        {
+            "ImportPath": "github.com/oleiade/reflections",
+            "Comment": "0.1.2-2-g632977f",
+            "Rev": "632977f98cd34d217c4b57d0840ec188b3d3dcaf"
+        },
+        {
+            "ImportPath": "github.com/vektra/errors",
+            "Rev": "c64d83aba85aa4392895aadeefabbd24e89f3580"
+        },
+        {
+            "ImportPath": "github.com/intelsdi-x/snap",
+            "Comment": "v0.10.0-beta-8-g4d5a73e",
+		    "Rev": "4d5a73e74913bd33d8f26044b7203cd4db35ad91"
+        },
+		{
+            "ImportPath": "github.com/Sirupsen/logrus",
+            "Comment": "v0.8.7-47-ga22723f",
+            "Rev": "a22723f16efea2e89b7bd67d10ed077c47c14eb4"
+        }
 	]
 }
